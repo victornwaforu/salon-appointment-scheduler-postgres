@@ -1,2 +1,2 @@
 # salon-appointment-scheduler-postgres
-A Salon Appointment Scheduler with SQL
+An interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
